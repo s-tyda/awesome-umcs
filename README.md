@@ -19,7 +19,9 @@ A curated list of awesome Maria Curie-Sklodowska University links and resources.
 - [Moria](http://moria.umcs.lublin.pl/) - oficjalny plan lekcji UMCS-u.
 - [Pokka](https://pokka.me/) - plan lekcji zrobiony przez [Piotra Brzozowskiego](https://stirante.com). Ma możliwość usuwania, dodawania i rozwijania bloczków, eksportowania do .PNG oraz do Google Calendar.
 - [Erebor](https://erebor.vpcloud.eu/) - nowoczesny i responsywny plan lekcji zrobiony przez Cezarego Regeca. Ma możliwość filtrowania na planie grup zajęciowych, edytowanie planu lekcji, rozwijanie bloczków, zapisywanie jako .PNG, a także zapisywania edytowanego planu do linku.
-- Syjonizer - wtyczka do przeglądrki dodające dodatkowe funkcje do Morii, a także poprawiająca jej wygląd i czytelność. [Chrome](https://chrome.google.com/webstore/detail/syjonizer/anfdiaikaccfpdloehibnplnlgijeaan) [Firefox](https://addons.mozilla.org/pl/firefox/addon/syjonizerumcs/)
+- Syjonizer - wtyczka do przeglądrki dodające dodatkowe funkcje do Morii, a także poprawiająca jej wygląd i czytelność. 
+	- [Chrome](https://chrome.google.com/webstore/detail/syjonizer/anfdiaikaccfpdloehibnplnlgijeaan)
+	- [Firefox](https://addons.mozilla.org/pl/firefox/addon/syjonizerumcs/)
 
 ## Ogólne
 
