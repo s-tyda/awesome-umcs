@@ -1,6 +1,8 @@
-# awesome-umcs
+# Awesome UMCS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Contents
+A curated list of awesome Maria Curie-Sklodowska University links and resources.
+
+## Zawartość
 
 - [Plan lekcji](#plan-lekcji)
 - [Ogólne](#ogólne)
@@ -8,7 +10,11 @@
 - [Materiały ze studiów](#materiały-ze-studiów)
 - [Algorytmy i struktury danych](#algorytmy-i-struktury-danych)
 
+---
+
 ## Plan lekcji
+
+*Strony związane z planem zajęć.*
 
 - [Moria](http://moria.umcs.lublin.pl/) - oficjalny plan lekcji UMCS-u.
 - [Pokka](https://pokka.me/) - plan lekcji zrobiony przez [Piotra Brzozowskiego](https://stirante.com). Ma możliwość usuwania, dodawania i rozwijania bloczków, eksportowania do .PNG oraz do Google Calendar.
@@ -16,6 +22,8 @@
 - Syjonizer - wtyczka do przeglądrki dodające dodatkowe funkcje do Morii, a także poprawiająca jej wygląd i czytelność. [Chrome](https://chrome.google.com/webstore/detail/syjonizer/anfdiaikaccfpdloehibnplnlgijeaan) [Firefox](https://addons.mozilla.org/pl/firefox/addon/syjonizerumcs/)
 
 ## Ogólne
+
+*Ogólne linki związane z poruszaniem się po sieciowej infrastrukturze uczelni.*
 
 - [Strona główna](https://www.umcs.pl/) - strona główna UMCS. Tutan należy szukać aktualnych informacji o godzinach rektorskich i ogłoszeniach.
 - [USOS](https://usosweb.umcs.pl/) - system obsługi studiów UMCS. W praktyce sprowadza się tylko do sprawdzania ocen końcowych z przedmiotów i zapisów na WF lub wykłady ogólnouniwersyteckie.
@@ -34,6 +42,8 @@
 
 ## Papierkowa robota
 
+*Pomocne linki związne z wypełnianiem dokumentów.*
+
 - [Indywidualna Organizacja Studiów](https://www.umcs.pl/pl/uchwaly-zarzadzenia-pisma-okolne,2499,zarzadzenie-nr-70-2021-rektora-uniwersytetu-marii-curie-sklodowskiej-w-lublinie-z-dnia-21-lipca-2021-r-w-sprawie-szczegolowych-zasad-udzielania-indywidulanej-organizacji-studiow-studentom-uniwersytetu-marii-curie-sklodowskiej-w-lublinie-obowiazujacych-od-1-pazdziernika-2021-roku,105015.chtm) - link do zarządzenia opisującego dokładnie na czym polega indywidualna organizacja studiów, wraz z załącznikami (wnioskiem oraz harmonogramem).
 
 ### Praktyki zawodowe
@@ -44,11 +54,15 @@
 
 ## Materiały ze studiów
 
+*Prosty patent, jak zdać te studia.*
+
 - [Wnuczek](http://liza.umcs.lublin.pl/~mwnuczek/) - stara strona z materiałami ze studiów, zrobiona przez Mirosława Wnuczka.
 - [TupTupTup](https://tuptuptup.huhha.co) - aka tuptup, całkiem młoda strona, zrobiona przeze mnie. Dodatkowo jest też tu zbiór książek programistycznych i losowator memów.
 - [TupTupTup - stara strona](http://liza.umcs.lublin.pl/~styda/site/Stronka.html) - stary TupTupTup, jeszcze przed zakupem własnej domeny.
 
 ## Algorytmy i struktury danych
+
+*Bo nie wszystko w życiu musi być łatwe*
 
 - [Tichy](https://tichy.umcs.lublin.pl/) - sprawdzarka algorytmiczna UMCS.
 - [new-tichy](https://github.com/s-tyda/new-tichy) - cli/skrypt konsolowy do sprawdzarki, napisany w pythonie. Dzięki niemu nie trzeba się logować do sprawdzarki, wszystko można zrobić z poziomu konsoli. Z chęcią uzupełnię dokumentację, jeśli zwiększy się zainteresowanie. Nie ukrywam, że niektóre funkcjonalności powstały z nudów w celu zabicia czasu.
