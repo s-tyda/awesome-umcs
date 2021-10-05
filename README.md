@@ -3,9 +3,9 @@
 ## Contents
 
 - [Plan lekcji](#plan-lekcji)
-- [Ogólne](#ogolne)
+- [Ogólne](#ogólne)
 - [Papierkowa robota](#papierkowa-robota)
-- [Materiały ze studiów](#materialy-ze-studiow)
+- [Materiały ze studiów](#materiały-ze-studiów)
 - [Algorytmy i struktury danych](#algorytmy-i-struktury-danych)
 
 ## Plan lekcji
