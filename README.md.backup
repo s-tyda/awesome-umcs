@@ -20,8 +20,8 @@ A curated list of awesome Maria Curie-Sklodowska University links and resources.
 - [Pokka](https://pokka.me/) - plan lekcji zrobiony przez [Piotra Brzozowskiego](https://stirante.com). Ma możliwość usuwania, dodawania i rozwijania bloczków, eksportowania do .PNG oraz do Google Calendar.
 - [Erebor](https://erebor.vpcloud.eu/) - nowoczesny i responsywny plan lekcji zrobiony przez Cezarego Regeca. Ma możliwość filtrowania na planie grup zajęciowych, edytowanie planu lekcji, rozwijanie bloczków, zapisywanie jako .PNG, a także zapisywania edytowanego planu do linku.
 - Syjonizer - wtyczka do przeglądrki dodające dodatkowe funkcje do Morii, a także poprawiająca jej wygląd i czytelność. 
-	- [Chrome](https://chrome.google.com/webstore/detail/syjonizer/anfdiaikaccfpdloehibnplnlgijeaan)
-	- [Firefox](https://addons.mozilla.org/pl/firefox/addon/syjonizerumcs/)
+- - [Chrome](https://chrome.google.com/webstore/detail/syjonizer/anfdiaikaccfpdloehibnplnlgijeaan)
+- - [Firefox](https://addons.mozilla.org/pl/firefox/addon/syjonizerumcs/)
 
 ## Ogólne
 
@@ -69,7 +69,3 @@ A curated list of awesome Maria Curie-Sklodowska University links and resources.
 - [Tichy](https://tichy.umcs.lublin.pl/) - sprawdzarka algorytmiczna UMCS.
 - [new-tichy](https://github.com/s-tyda/new-tichy) - cli/skrypt konsolowy do sprawdzarki, napisany w pythonie. Dzięki niemu nie trzeba się logować do sprawdzarki, wszystko można zrobić z poziomu konsoli. Z chęcią uzupełnię dokumentację, jeśli zwiększy się zainteresowanie. Nie ukrywam, że niektóre funkcjonalności powstały z nudów w celu zabicia czasu.
 - [Advent of Code](https://adventofcode.com) - strona z corocznym algorytmicznym kalendarzem adwentowym. Można spróbować dogadać się z prowadzącym, żeby przyznał dodatkowe punkty z aktywności za udział w zabawie. Zapraszam też do dołączenia do UMCSowej tablicy wyników. Kod: 1124398-341a87fd.
-
-## _
-
-- [Rekurencja](https://github.com/s-tyda/awesome-umcs)
