@@ -47,6 +47,7 @@ A curated list of awesome Maria Curie-Sklodowska University links and resources.
 *Pomocne linki związne z wypełnianiem dokumentów.*
 
 - [Indywidualna Organizacja Studiów](https://www.umcs.pl/pl/uchwaly-zarzadzenia-pisma-okolne,2499,zarzadzenie-nr-70-2021-rektora-uniwersytetu-marii-curie-sklodowskiej-w-lublinie-z-dnia-21-lipca-2021-r-w-sprawie-szczegolowych-zasad-udzielania-indywidulanej-organizacji-studiow-studentom-uniwersytetu-marii-curie-sklodowskiej-w-lublinie-obowiazujacych-od-1-pazdziernika-2021-roku,105015.chtm) - link do zarządzenia opisującego dokładnie na czym polega indywidualna organizacja studiów, wraz z załącznikami (wnioskiem oraz harmonogramem).
+- [mLegitymacja](https://usosweb.umcs.pl/kontroler.php?_action=dla_stud/studia/mlegitymacja/index) - link do miejsca w USOSie gdzie można wygenerować sobie kod dostępu do mLegitymacji. Można to też zrobić w aplikacji mobilnej USOSa ([Android](https://play.google.com/store/apps/details?id=pl.umcs.mobilny&hl=pl) [iOS](https://apps.apple.com/pl/app/mobilny-usos-umcs/id1459627901?l=pl)). Kod potem należy wpisać/zeskanować w aplikacji mobilnej mObywatel ([Android](https://play.google.com/store/apps/details?id=pl.nask.mobywatel&hl=pl&gl=pl) [iOS](https://apps.apple.com/pl/app/mobywatel/id1339613469?l=pl)).
 
 ### Praktyki zawodowe
 
@@ -64,11 +65,18 @@ A curated list of awesome Maria Curie-Sklodowska University links and resources.
 
 ## Algorytmy i struktury danych
 
-*Bo nie wszystko w życiu musi być łatwe*
+*Bo nie wszystko w życiu musi być łatwe.*
 
 - [Tichy](https://tichy.umcs.lublin.pl/) - sprawdzarka algorytmiczna UMCS.
 - [new-tichy](https://github.com/s-tyda/new-tichy) - cli/skrypt konsolowy do sprawdzarki, napisany w pythonie. Dzięki niemu nie trzeba się logować do sprawdzarki, wszystko można zrobić z poziomu konsoli. Z chęcią uzupełnię dokumentację, jeśli zwiększy się zainteresowanie. Nie ukrywam, że niektóre funkcjonalności powstały z nudów w celu zabicia czasu.
 - [Advent of Code](https://adventofcode.com) - strona z corocznym algorytmicznym kalendarzem adwentowym. Można spróbować dogadać się z prowadzącym, żeby przyznał dodatkowe punkty z aktywności za udział w zabawie. Zapraszam też do dołączenia do UMCSowej tablicy wyników. Kod: 1124398-341a87fd.
+
+## Inżynieria oprogramowania
+
+*Skąd jamnik wie, że jest jamnikiem?*
+
+- [Ściągawki](https://bkotyra.github.io) - blog mgr Bartłomieja Kotyry, gdzie można znaleźć ściągawki z relacji oraz diagramu sekwencji, a także ciekawy post o TDD.
+- [Refactoring.guru](https://refactoring.guru/pl) - całkiem fajna stronka z opisem wzorców projektowych.
 
 ## _
 
