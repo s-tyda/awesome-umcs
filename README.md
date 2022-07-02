@@ -35,7 +35,7 @@ A curated list of awesome Maria Curie-Sklodowska University links and resources.
 - [MFI](https://www.umcs.pl/pl/wydzial-matematyki-fizyki-i-informatyki-umcs-w-lublinie,46.htm) - strona główna Wydziału Matematyki, Fizyki i Informatyki. Tutaj należy szukać ogłoszeń związanych tylko z danym wydziałem.
 - [Pracownicy](https://www.umcs.pl/pl/address-book,1.html) - wyszukiwarka pracowników UMCS. Przydaje się, kiedy szukamy maila do prowadzącego.
 - [Plan studiów](https://phavi.umcs.pl/at/attachments/2019/0930/111105-plan-i-stopien-2019-2020-inf.pdf) - rozpiska aktualnego planu studiów Informatyka I st. od roku akademickiego 2019/2020. Przydaje się do podglądu co nas czeka lub rozpoznawaniu jakie przedmioty liczą się do średniej (te, które kończą się egzaminem - litera E).
-- [Archiwum prac dyplomowych](https://apd.umcs.pl/) - aktualne archiwum prac dyplomowych, gdzie można podejrzeć tematy prac z zeszłych lat.
+- [Archiwum prac dyplomowych](https://apd.umcs.pl/) - aktualne archiwum prac dyplomowych, gdzie można podejrzeć tematy prac z zeszłych lat. Tutaj też będzie się wrzucało swoją ukończoną pracę licencjacką. APD ma wbudowany anty-plagiat.
 - [SKNI](https://skni.umcs.pl) - strona Studenckiego Koła Naukowego Informatyki UMCS.
 - [Liza](http://liza.umcs.lublin.pl) - poczta oraz serwer dla studentów i pracowników UMCS. Można na nim hostować własną statyczną stronę.
 - [Hektor](https://hektor.umcs.lublin.pl) - poczta oraz serwer  dla pracowników UMCS.
