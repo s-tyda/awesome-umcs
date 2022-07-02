@@ -69,7 +69,7 @@ A curated list of awesome Maria Curie-Sklodowska University links and resources.
 
 - [Tichy](https://tichy.umcs.lublin.pl/) - sprawdzarka algorytmiczna UMCS.
 - [new-tichy](https://github.com/s-tyda/new-tichy) - cli/skrypt konsolowy do sprawdzarki, napisany w pythonie. Dzięki niemu nie trzeba się logować do sprawdzarki, wszystko można zrobić z poziomu konsoli. Z chęcią uzupełnię dokumentację, jeśli zwiększy się zainteresowanie. Nie ukrywam, że niektóre funkcjonalności powstały z nudów w celu zabicia czasu.
-- [Advent of Code](https://adventofcode.com) - strona z corocznym algorytmicznym kalendarzem adwentowym. Można spróbować dogadać się z prowadzącym, żeby przyznał dodatkowe punkty z aktywności za udział w zabawie. Zapraszam też do dołączenia do UMCSowej tablicy wyników. Kod: 1124398-341a87fd.
+- [Advent of Code](https://adventofcode.com) - strona z corocznym algorytmicznym kalendarzem adwentowym. Można spróbować dogadać się z prowadzącym, żeby przyznał dodatkowe punkty z aktywności za udział w zabawie. Zapraszam też do dołączenia do UMCSowej tablicy wyników. Kod: `1124398-341a87fd`.
 
 ## Inżynieria oprogramowania
 
@@ -77,6 +77,12 @@ A curated list of awesome Maria Curie-Sklodowska University links and resources.
 
 - [Ściągawki](https://bkotyra.github.io) - blog mgr Bartłomieja Kotyry, gdzie można znaleźć ściągawki z relacji oraz diagramu sekwencji, a także ciekawy post o TDD.
 - [Refactoring.guru](https://refactoring.guru/pl) - całkiem fajna stronka z opisem wzorców projektowych.
+
+## Inne
+
+*Kto chodzi na UMCS ten się w cyrku nie śmieje.*
+
+- [Tier Maker](https://tiermaker.com/create/umcs-it-tierlist-1583324) - szablon tierlisty prowadzących UMCS na Informatyce.
 
 ## _
 
