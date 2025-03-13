@@ -62,6 +62,7 @@ A curated list of awesome Maria Curie-Sklodowska University links and resources.
 - [Wnuczek](http://liza.umcs.lublin.pl/~mwnuczek/) - stara strona z materiałami ze studiów, zrobiona przez Mirosława Wnuczka.
 - [TupTupTup](https://tuptuptup.huhha.co) - aka tuptup, całkiem młoda strona, zrobiona przeze mnie. Dodatkowo jest też tu zbiór książek programistycznych i losowator memów.
 - [TupTupTup - stara strona](http://liza.umcs.lublin.pl/~styda/site/Stronka.html) - stary TupTupTup, jeszcze przed zakupem własnej domeny.
+- [Nowy Wnuczek SKNI](https://baza.skni.umcs.pl/) - nowa strona zrobiona przez ekipę SKNI, z nowymi materiałami.
 
 ## Algorytmy i struktury danych
 
