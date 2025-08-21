@@ -76,7 +76,7 @@ A curated list of awesome Maria Curie-Sklodowska University links and resources.
 
 *Skąd jamnik wie, że jest jamnikiem?*
 
-- [Ściągawki](https://bkotyra.github.io) - blog mgr Bartłomieja Kotyry, gdzie można znaleźć ściągawki z relacji oraz diagramu sekwencji, a także ciekawy post o TDD.
+- [Ściągawki](https://bkotyra.github.io) - blog dr Bartłomieja Kotyry, gdzie można znaleźć ściągawki z relacji oraz diagramu sekwencji, a także ciekawy post o TDD.
 - [Refactoring.guru](https://refactoring.guru/pl) - całkiem fajna stronka z opisem wzorców projektowych.
 
 ## Inne
